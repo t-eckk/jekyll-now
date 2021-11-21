@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Whilst I was still a student, I dreamt of being involved within quantitative trading. Sadly for me, 
+Whilst I was still a student, I dreamt of being involved within model-driven investing/trading. Models are elegant... 
+Sadly for me, 
 
 ### More Information
 
