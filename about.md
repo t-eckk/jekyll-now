@@ -6,7 +6,7 @@ published: true
 ---
 
 Whilst I was still a student, I dreamt of being involved within model-driven investing/trading. Models are elegant... 
-Sadly for me, 
+Sadly for me, being involved in a Finance degree, I lacked formal training especially in Mathematics and Computer Science.
 
 ### More Information
 
